@@ -7,7 +7,11 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/olivia-alge/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
   </url>
   
   <url>
@@ -15,7 +19,39 @@
   </url>
   
   <url>
+    <loc>/authors/brian-gregorka/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/macropinocytosis/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/isabella-gaeta/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/joel-a.-swanson/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/lydia-krienke/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/maropinocytosis/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/microbiology/immunology/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
   <url>
@@ -31,11 +67,23 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/authors/regina-pacitto/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sei-yoshida/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/signaling/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
   </url>
   
 </urlset>

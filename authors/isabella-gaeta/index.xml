@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabella Gaeta | Olivia Alge&#39;s Bio</title>
+    <link>/authors/isabella-gaeta/</link>
+      <atom:link href="/authors/isabella-gaeta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isabella Gaeta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Isabella Gaeta</title>
+      <link>/authors/isabella-gaeta/</link>
+    </image>
+    
+    <item>
+      <title>Differential signaling during macropinocytosis in response to M-CSF and PMA in macrophages</title>
+      <link>/publication/macropinocytosis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/macropinocytosis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

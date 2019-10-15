@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Olivia Alge&#39;s Bio</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -19,6 +19,62 @@
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Olivia is a graduate student in the Department of Computational Medicine and Bioinformatics.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>**Olivia Alge**</title>
+      <link>/authors/olivia-alge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/olivia-alge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Gregorka</title>
+      <link>/authors/brian-gregorka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-gregorka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabella Gaeta</title>
+      <link>/authors/isabella-gaeta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/isabella-gaeta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel A. Swanson</title>
+      <link>/authors/joel-a.-swanson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/joel-a.-swanson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lydia Krienke</title>
+      <link>/authors/lydia-krienke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/lydia-krienke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regina Pacitto</title>
+      <link>/authors/regina-pacitto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/regina-pacitto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sei Yoshida</title>
+      <link>/authors/sei-yoshida/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sei-yoshida/</guid>
+      <description></description>
     </item>
     
   </channel>
