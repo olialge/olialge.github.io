@@ -5,12 +5,92 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>**Olivia Alge**</title>
+      <link>/authors/olivia-alge/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/olivia-alge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Gryak</title>
+      <link>/authors/jonathan-gryak/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jonathan-gryak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kayvan Najarian</title>
+      <link>/authors/kayvan-najarian/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/kayvan-najarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yingqi Hua</title>
+      <link>/authors/yingqi-hua/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yingqi-hua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Gregorka</title>
+      <link>/authors/brian-gregorka/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-gregorka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabella Gaeta</title>
+      <link>/authors/isabella-gaeta/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/isabella-gaeta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel A. Swanson</title>
+      <link>/authors/joel-a.-swanson/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/joel-a.-swanson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lydia Krienke</title>
+      <link>/authors/lydia-krienke/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/lydia-krienke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regina Pacitto</title>
+      <link>/authors/regina-pacitto/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/regina-pacitto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sei Yoshida</title>
+      <link>/authors/sei-yoshida/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/sei-yoshida/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -19,62 +99,6 @@
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Olivia is a graduate student in the Department of Computational Medicine and Bioinformatics.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>**Olivia Alge**</title>
-      <link>/authors/olivia-alge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/olivia-alge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brian Gregorka</title>
-      <link>/authors/brian-gregorka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/brian-gregorka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Isabella Gaeta</title>
-      <link>/authors/isabella-gaeta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/isabella-gaeta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joel A. Swanson</title>
-      <link>/authors/joel-a.-swanson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/joel-a.-swanson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lydia Krienke</title>
-      <link>/authors/lydia-krienke/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/lydia-krienke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regina Pacitto</title>
-      <link>/authors/regina-pacitto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/regina-pacitto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sei Yoshida</title>
-      <link>/authors/sei-yoshida/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/sei-yoshida/</guid>
-      <description></description>
     </item>
     
   </channel>

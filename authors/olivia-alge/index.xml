@@ -5,7 +5,7 @@
     <link>/authors/olivia-alge/</link>
       <atom:link href="/authors/olivia-alge/index.xml" rel="self" type="application/rss+xml" />
     <description>**Olivia Alge**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>**Olivia Alge**</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Classifying Osteosarcoma Using Meta-Analysis of Gene Expression</title>
+      <link>/publication/bibm2018/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bibm2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Differential signaling during macropinocytosis in response to M-CSF and PMA in macrophages</title>
       <link>/publication/macropinocytosis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/macropinocytosis/</guid>
       <description></description>
     </item>
