@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Olivia Alge&#39;s Bio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Olivia Alge&#39;s Bio</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Midas Symposium 2019</title>
+      <link>/talk/midas2019/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
+      <guid>/talk/midas2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying Osteosarcoma Using Meta-Analysis of Gene Expression</title>
+      <link>/publication/bibm2018/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bibm2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Differential signaling during macropinocytosis in response to M-CSF and PMA in macrophages</title>
       <link>/publication/macropinocytosis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/macropinocytosis/</guid>
       <description></description>
     </item>
