@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Background: Osteosarcoma contributes to roughly 20% of bone cancers, typically afflicting children and adolescents. While chemotherapy and tumor resection can treat the disease, a timely diagnosis is necessary to prevent metastasis from forming. Imaging techniques such as x-ray and MRI can locate tumors and metastases, and when coupled with a biopsy, can diagnose a tumor as benign or osteosarcoma. The exact cause of osteosarcoma is unknown, but previous studies have identified genes that are regulated differently in osteosarcoma as compared to normal tissue. Methods: In this project, we classify bone tumors as osteosarcoma or benign using imaging features and RNA-seq data. Each observation contains imaging features from x-ray images of the tumor and read counts from RNA-seq data. The RNA-seq read counts for each observation are first filtered based on specified selection criteria: either transcripts of genes that have been identified in literature as being up- or down-regulated in osteosarcoma, or those that are marked as differentially expressed. Second, principal component analysis is performed on all features as a feature reduction step. Lastly, selected principal components are used as features to train a random forest model, which creates the final prediction on the test data. Results: In leave-one-out cross-validation (LOOCV), using imaging features with RNA-seq data and using literature-identified genes results in an area under the receiver operating characteristic curve (AUC) of 0.86 or greater when using at least two principal components to train the random forest. Using 3-fold cross-validation results in an AUC of 1.0 when using two or more principal components. Using imaging features with RNA-seq data from differential expression analysis, an AUC is 1.0 is achieved using one or more principal components in both LOOCV and 3-fold cross-validation. Impact: Genetic information coupled with imaging features can aid in classifying osteosarcoma versus benign tumors.">
+  <meta name="description" content="Risk stratification for sepsis-induced organ dysfunction is difficult because of its heterogeneity. Moreover, the information needed to compute the Sequential Organ Failure Assessment (SOFA) defined by Sepsis-3 may not be immediately available for patients that require care. Continuous electrocardiogram (ECG) recording is often available for patients in intensive care, and may be useful to identify those at risk of decompensating to septic shock. Additionally, structuring multi-lead ECG data as a higher-order tensor can preserve the data’s structure and prevent loss of information that can occur in traditional machine learning, which structures data as 1-dimensional vectors. The project discussed here is a first step in this research: the development of a tensorial data classification method, and its testing with publicly available ECG data. Methods: We developed a tensor classification method based on multilinear discriminant analysis via Kempf-Ness Theory (KNMDA). We compare performance of this method to existing tensor methods and traditional machine learning, including support vector machine (SVM) and linear discriminant analysis (LDA), at different noise levels. We constructed 3rd order tensors using 12-lead ECG data from the Physionet PTB database, which contains samples of both normal control and unhealthy subjects. Results: Over thirty iterations, our KNMDA method obtained average area under the receiver operating characteristic curve (AUC) of 0.94 (SD 0.03), an improvement compared to linear SVM with 0.91 (0.03) and LDA with 0.68 (0.07) with no additional noise. When signal-to-noise ratio of the ECG signal was changed to -10, KNMDA achieved average AUC of 0.92 (0.03), compared to SVM with 0.85 (0.06) and LDA with 0.59 (0.07).Impact: The results show that our proposed method can outperform existing ones when using real ECG data. We can therefore apply this method to our larger goal of improving risk-stratification for septic patients, to augment physician decision-making and improve patient care.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://olialge.github.io/talk/midas2019/">
+  <link rel="alternate" hreflang="en-us" href="https://olialge.github.io/talk/midas2020/">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://olialge.github.io/talk/midas2019/">
+  <link rel="canonical" href="https://olialge.github.io/talk/midas2020/">
 
   
   
@@ -114,15 +114,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Olivia Alge&#39;s Bio">
-  <meta property="og:url" content="https://olialge.github.io/talk/midas2019/">
-  <meta property="og:title" content="Classification of Osteosarcoma or Benign Tumor using RNA-seq and Imaging Data | Olivia Alge&#39;s Bio">
-  <meta property="og:description" content="Background: Osteosarcoma contributes to roughly 20% of bone cancers, typically afflicting children and adolescents. While chemotherapy and tumor resection can treat the disease, a timely diagnosis is necessary to prevent metastasis from forming. Imaging techniques such as x-ray and MRI can locate tumors and metastases, and when coupled with a biopsy, can diagnose a tumor as benign or osteosarcoma. The exact cause of osteosarcoma is unknown, but previous studies have identified genes that are regulated differently in osteosarcoma as compared to normal tissue. Methods: In this project, we classify bone tumors as osteosarcoma or benign using imaging features and RNA-seq data. Each observation contains imaging features from x-ray images of the tumor and read counts from RNA-seq data. The RNA-seq read counts for each observation are first filtered based on specified selection criteria: either transcripts of genes that have been identified in literature as being up- or down-regulated in osteosarcoma, or those that are marked as differentially expressed. Second, principal component analysis is performed on all features as a feature reduction step. Lastly, selected principal components are used as features to train a random forest model, which creates the final prediction on the test data. Results: In leave-one-out cross-validation (LOOCV), using imaging features with RNA-seq data and using literature-identified genes results in an area under the receiver operating characteristic curve (AUC) of 0.86 or greater when using at least two principal components to train the random forest. Using 3-fold cross-validation results in an AUC of 1.0 when using two or more principal components. Using imaging features with RNA-seq data from differential expression analysis, an AUC is 1.0 is achieved using one or more principal components in both LOOCV and 3-fold cross-validation. Impact: Genetic information coupled with imaging features can aid in classifying osteosarcoma versus benign tumors."><meta property="og:image" content="https://olialge.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://olialge.github.io/talk/midas2020/">
+  <meta property="og:title" content="Application of a Tensor-Based Classification Method with Electrocardiogram Data | Olivia Alge&#39;s Bio">
+  <meta property="og:description" content="Risk stratification for sepsis-induced organ dysfunction is difficult because of its heterogeneity. Moreover, the information needed to compute the Sequential Organ Failure Assessment (SOFA) defined by Sepsis-3 may not be immediately available for patients that require care. Continuous electrocardiogram (ECG) recording is often available for patients in intensive care, and may be useful to identify those at risk of decompensating to septic shock. Additionally, structuring multi-lead ECG data as a higher-order tensor can preserve the data’s structure and prevent loss of information that can occur in traditional machine learning, which structures data as 1-dimensional vectors. The project discussed here is a first step in this research: the development of a tensorial data classification method, and its testing with publicly available ECG data. Methods: We developed a tensor classification method based on multilinear discriminant analysis via Kempf-Ness Theory (KNMDA). We compare performance of this method to existing tensor methods and traditional machine learning, including support vector machine (SVM) and linear discriminant analysis (LDA), at different noise levels. We constructed 3rd order tensors using 12-lead ECG data from the Physionet PTB database, which contains samples of both normal control and unhealthy subjects. Results: Over thirty iterations, our KNMDA method obtained average area under the receiver operating characteristic curve (AUC) of 0.94 (SD 0.03), an improvement compared to linear SVM with 0.91 (0.03) and LDA with 0.68 (0.07) with no additional noise. When signal-to-noise ratio of the ECG signal was changed to -10, KNMDA achieved average AUC of 0.92 (0.03), compared to SVM with 0.85 (0.06) and LDA with 0.59 (0.07).Impact: The results show that our proposed method can outperform existing ones when using real ECG data. We can therefore apply this method to our larger goal of improving risk-stratification for septic patients, to augment physician decision-making and improve patient care."><meta property="og:image" content="https://olialge.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://olialge.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-11-14T12:00:00-05:00">
+      <meta property="article:published_time" content="2021-01-13T19:04:42-05:00">
     
-    <meta property="article:modified_time" content="2019-11-14T12:00:00-05:00">
+    <meta property="article:modified_time" content="2020-11-10T12:45:00-05:00">
   
 
   
@@ -141,9 +141,9 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://olialge.github.io/talk/midas2019/"
+    "@id": "https://olialge.github.io/talk/midas2020/"
   },
-  "name": "Classification of Osteosarcoma or Benign Tumor using RNA-seq and Imaging Data",
+  "name": "Application of a Tensor-Based Classification Method with Electrocardiogram Data",
   
   "location": {
     "@type": "Place",
@@ -160,9 +160,9 @@
   },
   
   
-  "startDate": "2019-11-14T12:00:00-05:00",
+  "startDate": "2020-11-10T12:45:00-05:00",
   
-  "endDate": "2019-11-14T14:00:00-05:00",
+  "endDate": "2020-11-10T14:00:00-05:00",
   
   
   "performer": {
@@ -170,7 +170,7 @@
     "name": "**Olivia Alge**"
   },
   
-  "description": "Background: Osteosarcoma contributes to roughly 20% of bone cancers, typically afflicting children and adolescents. While chemotherapy and tumor resection can treat the disease, a timely diagnosis is necessary to prevent metastasis from forming. Imaging techniques such as x-ray and MRI can locate tumors and metastases, and when coupled with a biopsy, can diagnose a tumor as benign or osteosarcoma. The exact cause of osteosarcoma is unknown, but previous studies have identified genes that are regulated differently in osteosarcoma as compared to normal tissue. Methods: In this project, we classify bone tumors as osteosarcoma or benign using imaging features and RNA-seq data. Each observation contains imaging features from x-ray images of the tumor and read counts from RNA-seq data. The RNA-seq read counts for each observation are first filtered based on specified selection criteria: either transcripts of genes that have been identified in literature as being up- or down-regulated in osteosarcoma, or those that are marked as differentially expressed. Second, principal component analysis is performed on all features as a feature reduction step. Lastly, selected principal components are used as features to train a random forest model, which creates the final prediction on the test data. Results: In leave-one-out cross-validation (LOOCV), using imaging features with RNA-seq data and using literature-identified genes results in an area under the receiver operating characteristic curve (AUC) of 0.86 or greater when using at least two principal components to train the random forest. Using 3-fold cross-validation results in an AUC of 1.0 when using two or more principal components. Using imaging features with RNA-seq data from differential expression analysis, an AUC is 1.0 is achieved using one or more principal components in both LOOCV and 3-fold cross-validation. Impact: Genetic information coupled with imaging features can aid in classifying osteosarcoma versus benign tumors."
+  "description": "Risk stratification for sepsis-induced organ dysfunction is difficult because of its heterogeneity. Moreover, the information needed to compute the Sequential Organ Failure Assessment (SOFA) defined by Sepsis-3 may not be immediately available for patients that require care. Continuous electrocardiogram (ECG) recording is often available for patients in intensive care, and may be useful to identify those at risk of decompensating to septic shock. Additionally, structuring multi-lead ECG data as a higher-order tensor can preserve the data’s structure and prevent loss of information that can occur in traditional machine learning, which structures data as 1-dimensional vectors. The project discussed here is a first step in this research: the development of a tensorial data classification method, and its testing with publicly available ECG data. Methods: We developed a tensor classification method based on multilinear discriminant analysis via Kempf-Ness Theory (KNMDA). We compare performance of this method to existing tensor methods and traditional machine learning, including support vector machine (SVM) and linear discriminant analysis (LDA), at different noise levels. We constructed 3rd order tensors using 12-lead ECG data from the Physionet PTB database, which contains samples of both normal control and unhealthy subjects. Results: Over thirty iterations, our KNMDA method obtained average area under the receiver operating characteristic curve (AUC) of 0.94 (SD 0.03), an improvement compared to linear SVM with 0.91 (0.03) and LDA with 0.68 (0.07) with no additional noise. When signal-to-noise ratio of the ECG signal was changed to -10, KNMDA achieved average AUC of 0.92 (0.03), compared to SVM with 0.85 (0.06) and LDA with 0.59 (0.07).Impact: The results show that our proposed method can outperform existing ones when using real ECG data. We can therefore apply this method to our larger goal of improving risk-stratification for septic patients, to augment physician decision-making and improve patient care."
 }
 </script>
 
@@ -186,7 +186,7 @@
 
 
 
-  <title>Classification of Osteosarcoma or Benign Tumor using RNA-seq and Imaging Data | Olivia Alge&#39;s Bio</title>
+  <title>Application of a Tensor-Based Classification Method with Electrocardiogram Data | Olivia Alge&#39;s Bio</title>
 
 </head>
 
@@ -381,7 +381,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Classification of Osteosarcoma or Benign Tumor using RNA-seq and Imaging Data</h1>
+  <h1>Application of a Tensor-Based Classification Method with Electrocardiogram Data</h1>
 
   
 
@@ -402,7 +402,7 @@
 
 
   
-  <span><a href="/authors/olivia-alge/">Olivia Alge</a></span>, <span><a href="/authors/lu-lu/">Lu Lu</a></span>, <span><a href="/authors/zhi-li/">Zhi Li</a></span>, <span><a href="/authors/yingqui-hua/">Yingqui Hua</a></span>, <span><a href="/authors/jonathan-gryak/">Jonathan Gryak</a></span>, <span><a href="/authors/kayvan-najarian/">Kayvan Najarian</a></span>
+  <span><a href="/authors/olivia-alge/">Olivia Alge</a></span>, <span><a href="/authors/cristian-minoccheri/">Cristian Minoccheri</a></span>, <span><a href="/authors/jonathan-gryak/">Jonathan Gryak</a></span>, <span><a href="/authors/harm-derksen/">Harm Derksen</a></span>, <span><a href="/authors/j.-scott-vanepps/">J. Scott VanEpps</a></span>, <span><a href="/authors/kayvan-najarian/">Kayvan Najarian</a></span>
 
   </div>
   
@@ -434,7 +434,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://olialge.github.io/talk/midas2019/&amp;text=Classification%20of%20Osteosarcoma%20or%20Benign%20Tumor%20using%20RNA-seq%20and%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://olialge.github.io/talk/midas2020/&amp;text=Application%20of%20a%20Tensor-Based%20Classification%20Method%20with%20Electrocardiogram%20Data" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -447,7 +447,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://olialge.github.io/talk/midas2019/&amp;t=Classification%20of%20Osteosarcoma%20or%20Benign%20Tumor%20using%20RNA-seq%20and%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://olialge.github.io/talk/midas2020/&amp;t=Application%20of%20a%20Tensor-Based%20Classification%20Method%20with%20Electrocardiogram%20Data" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -460,7 +460,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Classification%20of%20Osteosarcoma%20or%20Benign%20Tumor%20using%20RNA-seq%20and%20Imaging%20Data&amp;body=https://olialge.github.io/talk/midas2019/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Application%20of%20a%20Tensor-Based%20Classification%20Method%20with%20Electrocardiogram%20Data&amp;body=https://olialge.github.io/talk/midas2020/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -473,7 +473,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://olialge.github.io/talk/midas2019/&amp;title=Classification%20of%20Osteosarcoma%20or%20Benign%20Tumor%20using%20RNA-seq%20and%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://olialge.github.io/talk/midas2020/&amp;title=Application%20of%20a%20Tensor-Based%20Classification%20Method%20with%20Electrocardiogram%20Data" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -486,7 +486,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Classification%20of%20Osteosarcoma%20or%20Benign%20Tumor%20using%20RNA-seq%20and%20Imaging%20Data%20https://olialge.github.io/talk/midas2019/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Application%20of%20a%20Tensor-Based%20Classification%20Method%20with%20Electrocardiogram%20Data%20https://olialge.github.io/talk/midas2020/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -499,7 +499,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://olialge.github.io/talk/midas2019/&amp;title=Classification%20of%20Osteosarcoma%20or%20Benign%20Tumor%20using%20RNA-seq%20and%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://olialge.github.io/talk/midas2020/&amp;title=Application%20of%20a%20Tensor-Based%20Classification%20Method%20with%20Electrocardiogram%20Data" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -526,6 +526,55 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/1-HiS6XRFYFx7c6QU_IkilHIRL2uNjKvP/view" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://app.careerfairplus.com/um_mi/fair/3147/employer/257013" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+</div>
+
 
   
 </div>
@@ -536,7 +585,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">Background: Osteosarcoma contributes to roughly 20% of bone cancers, typically afflicting children and adolescents. While chemotherapy and tumor resection can treat the disease, a timely diagnosis is necessary to prevent metastasis from forming. Imaging techniques such as x-ray and MRI can locate tumors and metastases, and when coupled with a biopsy, can diagnose a tumor as benign or osteosarcoma. The exact cause of osteosarcoma is unknown, but previous studies have identified genes that are regulated differently in osteosarcoma as compared to normal tissue. Methods: In this project, we classify bone tumors as osteosarcoma or benign using imaging features and RNA-seq data. Each observation contains imaging features from x-ray images of the tumor and read counts from RNA-seq data. The RNA-seq read counts for each observation are first filtered based on specified selection criteria: either transcripts of genes that have been identified in literature as being up- or down-regulated in osteosarcoma, or those that are marked as differentially expressed. Second, principal component analysis is performed on all features as a feature reduction step. Lastly, selected principal components are used as features to train a random forest model, which creates the final prediction on the test data. Results: In leave-one-out cross-validation (LOOCV), using imaging features with RNA-seq data and using literature-identified genes results in an area under the receiver operating characteristic curve (AUC) of 0.86 or greater when using at least two principal components to train the random forest. Using 3-fold cross-validation results in an AUC of 1.0 when using two or more principal components. Using imaging features with RNA-seq data from differential expression analysis, an AUC is 1.0 is achieved using one or more principal components in both LOOCV and 3-fold cross-validation. Impact: Genetic information coupled with imaging features can aid in classifying osteosarcoma versus benign tumors.</p>
+      <p class="pub-abstract">Risk stratification for sepsis-induced organ dysfunction is difficult because of its heterogeneity. Moreover, the information needed to compute the Sequential Organ Failure Assessment (SOFA) defined by Sepsis-3 may not be immediately available for patients that require care. Continuous electrocardiogram (ECG) recording is often available for patients in intensive care, and may be useful to identify those at risk of decompensating to septic shock. Additionally, structuring multi-lead ECG data as a higher-order tensor can preserve the data’s structure and prevent loss of information that can occur in traditional machine learning, which structures data as 1-dimensional vectors. The project discussed here is a first step in this research: the development of a tensorial data classification method, and its testing with publicly available ECG data. Methods: We developed a tensor classification method based on multilinear discriminant analysis via Kempf-Ness Theory (KNMDA). We compare performance of this method to existing tensor methods and traditional machine learning, including support vector machine (SVM) and linear discriminant analysis (LDA), at different noise levels. We constructed 3rd order tensors using 12-lead ECG data from the Physionet PTB database, which contains samples of both normal control and unhealthy subjects. Results: Over thirty iterations, our KNMDA method obtained average area under the receiver operating characteristic curve (AUC) of 0.94 (SD 0.03), an improvement compared to linear SVM with 0.91 (0.03) and LDA with 0.68 (0.07) with no additional noise. When signal-to-noise ratio of the ECG signal was changed to -10, KNMDA achieved average AUC of 0.92 (0.03), compared to SVM with 0.85 (0.06) and LDA with 0.59 (0.07).Impact: The results show that our proposed method can outperform existing ones when using real ECG data. We can therefore apply this method to our larger goal of improving risk-stratification for septic patients, to augment physician decision-making and improve patient care.</p>
     
 
     <div class="row">
@@ -545,7 +594,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Nov 14, 2019 12:00 PM &mdash; 2:00 PM
+            Nov 10, 2020 12:45 PM &mdash; 2:00 PM
           </div>
         </div>
       </div>
@@ -559,8 +608,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            <a href="https://midas.umich.edu/2019-symposium/" target="_blank" rel="noopener">
-            MIDAS 2019 Symposium
+            <a href="https://midas.umich.edu/2020-symposium/" target="_blank" rel="noopener">
+            MIDAS 2020 Symposium
             </a>
           </div>
         </div>
@@ -601,12 +650,6 @@
     </div>
 
     
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/osteosarcoma/">osteosarcoma</a>
-  
-</div>
 
 
     

@@ -5,7 +5,7 @@
     <link>https://olialge.github.io/authors/</link>
       <atom:link href="https://olialge.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 12:45:00 -0500</lastBuildDate>
     <image>
       <url>https://olialge.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,48 @@
     <item>
       <title>**Olivia Alge**</title>
       <link>https://olialge.github.io/authors/olivia-alge/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
       <guid>https://olialge.github.io/authors/olivia-alge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristian Minoccheri</title>
+      <link>https://olialge.github.io/authors/cristian-minoccheri/</link>
+      <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
+      <guid>https://olialge.github.io/authors/cristian-minoccheri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harm Derksen</title>
+      <link>https://olialge.github.io/authors/harm-derksen/</link>
+      <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
+      <guid>https://olialge.github.io/authors/harm-derksen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Scott VanEpps</title>
+      <link>https://olialge.github.io/authors/j.-scott-vanepps/</link>
+      <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
+      <guid>https://olialge.github.io/authors/j.-scott-vanepps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Gryak</title>
+      <link>https://olialge.github.io/authors/jonathan-gryak/</link>
+      <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
+      <guid>https://olialge.github.io/authors/jonathan-gryak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kayvan Najarian</title>
+      <link>https://olialge.github.io/authors/kayvan-najarian/</link>
+      <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
+      <guid>https://olialge.github.io/authors/kayvan-najarian/</guid>
       <description></description>
     </item>
     
@@ -29,18 +69,10 @@
     </item>
     
     <item>
-      <title>Jonathan Gryak</title>
-      <link>https://olialge.github.io/authors/jonathan-gryak/</link>
+      <title>Lu Lu</title>
+      <link>https://olialge.github.io/authors/lu-lu/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://olialge.github.io/authors/jonathan-gryak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kayvan Najarian</title>
-      <link>https://olialge.github.io/authors/kayvan-najarian/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://olialge.github.io/authors/kayvan-najarian/</guid>
+      <guid>https://olialge.github.io/authors/lu-lu/</guid>
       <description></description>
     </item>
     
@@ -55,8 +87,24 @@
     <item>
       <title>Yingqi Hua</title>
       <link>https://olialge.github.io/authors/yingqi-hua/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://olialge.github.io/authors/yingqi-hua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhi Li</title>
+      <link>https://olialge.github.io/authors/zhi-li/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/authors/zhi-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yingqui Hua</title>
+      <link>https://olialge.github.io/authors/yingqui-hua/</link>
+      <pubDate>Thu, 14 Nov 2019 12:00:00 -0500</pubDate>
+      <guid>https://olialge.github.io/authors/yingqui-hua/</guid>
       <description></description>
     </item>
     

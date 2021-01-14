@@ -5,12 +5,28 @@
     <link>https://olialge.github.io/publication_types/1/</link>
       <atom:link href="https://olialge.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olialge.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://olialge.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Automated Classification of Osteosarcoma and Benign Tumors using RNA-seq and Plain X-ray</title>
+      <link>https://olialge.github.io/publication/embsost/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/publication/embsost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Poor Sleep Quality in Fibromyalgia with Wrist Sensors</title>
+      <link>https://olialge.github.io/publication/embsfib/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/publication/embsfib/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classifying Osteosarcoma Using Meta-Analysis of Gene Expression</title>

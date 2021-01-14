@@ -4,11 +4,56 @@
   
   <url>
     <loc>https://olialge.github.io/authors/olivia-alge/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olialge.github.io/publication_types/2/</loc>
+    <loc>https://olialge.github.io/talk/midas2020/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/cristian-minoccheri/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/harm-derksen/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/j.-scott-vanepps/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/jonathan-gryak/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/kayvan-najarian/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/talk/</loc>
+    <lastmod>2020-11-10T12:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/publication_types/1/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://olialge.github.io/authors/</loc>
+    <loc>https://olialge.github.io/publication/embsost/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,17 +73,17 @@
   </url>
   
   <url>
-    <loc>https://olialge.github.io/authors/jonathan-gryak/</loc>
+    <loc>https://olialge.github.io/tags/image-processing/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olialge.github.io/authors/kayvan-najarian/</loc>
+    <loc>https://olialge.github.io/authors/lu-lu/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olialge.github.io/</loc>
+    <loc>https://olialge.github.io/tags/osteosarcoma/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,8 +123,23 @@
   </url>
   
   <url>
-    <loc>https://olialge.github.io/publication_types/1/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <loc>https://olialge.github.io/authors/yingqi-hua/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/zhi-li/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/talk/midas2019/</loc>
+    <lastmod>2019-11-14T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olialge.github.io/authors/yingqui-hua/</loc>
+    <lastmod>2019-11-14T12:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -93,13 +153,8 @@
   </url>
   
   <url>
-    <loc>https://olialge.github.io/tags/osteosarcoma/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olialge.github.io/authors/yingqi-hua/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <loc>https://olialge.github.io/publication_types/2/</loc>
+    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -162,10 +217,6 @@
   
   <url>
     <loc>https://olialge.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://olialge.github.io/talk/</loc>
   </url>
   
 </urlset>

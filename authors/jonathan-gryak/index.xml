@@ -5,7 +5,7 @@
     <link>https://olialge.github.io/authors/jonathan-gryak/</link>
       <atom:link href="https://olialge.github.io/authors/jonathan-gryak/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Gryak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 12:45:00 -0500</lastBuildDate>
     <image>
       <url>https://olialge.github.io/img/icon-192.png</url>
       <title>Jonathan Gryak</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Application of a Tensor-Based Classification Method with Electrocardiogram Data</title>
+      <link>https://olialge.github.io/talk/midas2020/</link>
+      <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
+      <guid>https://olialge.github.io/talk/midas2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Classification of Osteosarcoma and Benign Tumors using RNA-seq and Plain X-ray</title>
+      <link>https://olialge.github.io/publication/embsost/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/publication/embsost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Poor Sleep Quality in Fibromyalgia with Wrist Sensors</title>
       <link>https://olialge.github.io/publication/embsfib/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://olialge.github.io/publication/embsfib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Osteosarcoma or Benign Tumor using RNA-seq and Imaging Data</title>
+      <link>https://olialge.github.io/talk/midas2019/</link>
+      <pubDate>Thu, 14 Nov 2019 12:00:00 -0500</pubDate>
+      <guid>https://olialge.github.io/talk/midas2019/</guid>
       <description></description>
     </item>
     

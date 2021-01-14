@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks and Presentations | Olivia Alge&#39;s Bio</title>
-    <link>https://olialge.github.io/talk/</link>
-      <atom:link href="https://olialge.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks and Presentations</description>
+    <title>Harm Derksen | Olivia Alge&#39;s Bio</title>
+    <link>https://olialge.github.io/authors/harm-derksen/</link>
+      <atom:link href="https://olialge.github.io/authors/harm-derksen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harm Derksen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 12:45:00 -0500</lastBuildDate>
     <image>
       <url>https://olialge.github.io/img/icon-192.png</url>
-      <title>Talks and Presentations</title>
-      <link>https://olialge.github.io/talk/</link>
+      <title>Harm Derksen</title>
+      <link>https://olialge.github.io/authors/harm-derksen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://olialge.github.io/talk/midas2020/</link>
       <pubDate>Tue, 10 Nov 2020 12:45:00 -0500</pubDate>
       <guid>https://olialge.github.io/talk/midas2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification of Osteosarcoma or Benign Tumor using RNA-seq and Imaging Data</title>
-      <link>https://olialge.github.io/talk/midas2019/</link>
-      <pubDate>Thu, 14 Nov 2019 12:00:00 -0500</pubDate>
-      <guid>https://olialge.github.io/talk/midas2019/</guid>
       <description></description>
     </item>
     

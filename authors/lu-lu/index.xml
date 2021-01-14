@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yingqi Hua | Olivia Alge&#39;s Bio</title>
-    <link>https://olialge.github.io/authors/yingqi-hua/</link>
-      <atom:link href="https://olialge.github.io/authors/yingqi-hua/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yingqi Hua</description>
+    <title>Lu Lu | Olivia Alge&#39;s Bio</title>
+    <link>https://olialge.github.io/authors/lu-lu/</link>
+      <atom:link href="https://olialge.github.io/authors/lu-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lu Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olialge.github.io/img/icon-192.png</url>
-      <title>Yingqi Hua</title>
-      <link>https://olialge.github.io/authors/yingqi-hua/</link>
+      <title>Lu Lu</title>
+      <link>https://olialge.github.io/authors/lu-lu/</link>
     </image>
     
     <item>
@@ -21,10 +21,10 @@
     </item>
     
     <item>
-      <title>Classifying Osteosarcoma Using Meta-Analysis of Gene Expression</title>
-      <link>https://olialge.github.io/publication/bibm2018/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://olialge.github.io/publication/bibm2018/</guid>
+      <title>Classification of Osteosarcoma or Benign Tumor using RNA-seq and Imaging Data</title>
+      <link>https://olialge.github.io/talk/midas2019/</link>
+      <pubDate>Thu, 14 Nov 2019 12:00:00 -0500</pubDate>
+      <guid>https://olialge.github.io/talk/midas2019/</guid>
       <description></description>
     </item>
     
