@@ -2,61 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Olivia Alge&#39;s Bio</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olialge.github.io/tags/</link>
+      <atom:link href="https://olialge.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://olialge.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://olialge.github.io/tags/</link>
     </image>
     
     <item>
-      <title>bioinformatics</title>
-      <link>/tags/bioinformatics/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
-      <guid>/tags/bioinformatics/</guid>
+      <title>fibromyalgia</title>
+      <link>https://olialge.github.io/tags/fibromyalgia/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/tags/fibromyalgia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signal processing</title>
+      <link>https://olialge.github.io/tags/signal-processing/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wearable</title>
+      <link>https://olialge.github.io/tags/wearable/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/tags/wearable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
-      <guid>/tags/machine-learning/</guid>
+      <link>https://olialge.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>osteosarcoma</title>
-      <link>/tags/osteosarcoma/</link>
+      <link>https://olialge.github.io/tags/osteosarcoma/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/osteosarcoma/</guid>
+      <guid>https://olialge.github.io/tags/osteosarcoma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maropinocytosis</title>
-      <link>/tags/maropinocytosis/</link>
+      <link>https://olialge.github.io/tags/maropinocytosis/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/maropinocytosis/</guid>
+      <guid>https://olialge.github.io/tags/maropinocytosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>microbiology/immunology</title>
-      <link>/tags/microbiology/immunology/</link>
+      <link>https://olialge.github.io/tags/microbiology/immunology/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/microbiology/immunology/</guid>
+      <guid>https://olialge.github.io/tags/microbiology/immunology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>signaling</title>
-      <link>/tags/signaling/</link>
+      <link>https://olialge.github.io/tags/signaling/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/signaling/</guid>
+      <guid>https://olialge.github.io/tags/signaling/</guid>
       <description></description>
     </item>
     

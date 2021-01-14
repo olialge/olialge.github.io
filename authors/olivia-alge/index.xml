@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>**Olivia Alge** | Olivia Alge&#39;s Bio</title>
-    <link>/authors/olivia-alge/</link>
-      <atom:link href="/authors/olivia-alge/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olialge.github.io/authors/olivia-alge/</link>
+      <atom:link href="https://olialge.github.io/authors/olivia-alge/index.xml" rel="self" type="application/rss+xml" />
     <description>**Olivia Alge**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://olialge.github.io/img/icon-192.png</url>
       <title>**Olivia Alge**</title>
-      <link>/authors/olivia-alge/</link>
+      <link>https://olialge.github.io/authors/olivia-alge/</link>
     </image>
     
     <item>
+      <title>Predicting Poor Sleep Quality in Fibromyalgia with Wrist Sensors</title>
+      <link>https://olialge.github.io/publication/embsfib/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/publication/embsfib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classifying Osteosarcoma Using Meta-Analysis of Gene Expression</title>
-      <link>/publication/bibm2018/</link>
+      <link>https://olialge.github.io/publication/bibm2018/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/bibm2018/</guid>
+      <guid>https://olialge.github.io/publication/bibm2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential signaling during macropinocytosis in response to M-CSF and PMA in macrophages</title>
-      <link>/publication/macropinocytosis/</link>
+      <link>https://olialge.github.io/publication/macropinocytosis/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/macropinocytosis/</guid>
+      <guid>https://olialge.github.io/publication/macropinocytosis/</guid>
       <description></description>
     </item>
     

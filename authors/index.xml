@@ -2,101 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Olivia Alge&#39;s Bio</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olialge.github.io/authors/</link>
+      <atom:link href="https://olialge.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://olialge.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://olialge.github.io/authors/</link>
     </image>
     
     <item>
       <title>**Olivia Alge**</title>
-      <link>/authors/olivia-alge/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/olivia-alge/</guid>
+      <link>https://olialge.github.io/authors/olivia-alge/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/authors/olivia-alge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Kratz</title>
+      <link>https://olialge.github.io/authors/anna-kratz/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/authors/anna-kratz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jonathan Gryak</title>
-      <link>/authors/jonathan-gryak/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/jonathan-gryak/</guid>
+      <link>https://olialge.github.io/authors/jonathan-gryak/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/authors/jonathan-gryak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kayvan Najarian</title>
-      <link>/authors/kayvan-najarian/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/kayvan-najarian/</guid>
+      <link>https://olialge.github.io/authors/kayvan-najarian/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/authors/kayvan-najarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SM Reza Soroushmehr</title>
+      <link>https://olialge.github.io/authors/sm-reza-soroushmehr/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://olialge.github.io/authors/sm-reza-soroushmehr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yingqi Hua</title>
-      <link>/authors/yingqi-hua/</link>
+      <link>https://olialge.github.io/authors/yingqi-hua/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/yingqi-hua/</guid>
+      <guid>https://olialge.github.io/authors/yingqi-hua/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brian Gregorka</title>
-      <link>/authors/brian-gregorka/</link>
+      <link>https://olialge.github.io/authors/brian-gregorka/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/brian-gregorka/</guid>
+      <guid>https://olialge.github.io/authors/brian-gregorka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Isabella Gaeta</title>
-      <link>/authors/isabella-gaeta/</link>
+      <link>https://olialge.github.io/authors/isabella-gaeta/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/isabella-gaeta/</guid>
+      <guid>https://olialge.github.io/authors/isabella-gaeta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joel A. Swanson</title>
-      <link>/authors/joel-a.-swanson/</link>
+      <link>https://olialge.github.io/authors/joel-a.-swanson/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/joel-a.-swanson/</guid>
+      <guid>https://olialge.github.io/authors/joel-a.-swanson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lydia Krienke</title>
-      <link>/authors/lydia-krienke/</link>
+      <link>https://olialge.github.io/authors/lydia-krienke/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/lydia-krienke/</guid>
+      <guid>https://olialge.github.io/authors/lydia-krienke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regina Pacitto</title>
-      <link>/authors/regina-pacitto/</link>
+      <link>https://olialge.github.io/authors/regina-pacitto/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/regina-pacitto/</guid>
+      <guid>https://olialge.github.io/authors/regina-pacitto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sei Yoshida</title>
-      <link>/authors/sei-yoshida/</link>
+      <link>https://olialge.github.io/authors/sei-yoshida/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/sei-yoshida/</guid>
+      <guid>https://olialge.github.io/authors/sei-yoshida/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://olialge.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://olialge.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Olivia is a graduate student in the Department of Computational Medicine and Bioinformatics.&lt;/p&gt;
 </description>
     </item>

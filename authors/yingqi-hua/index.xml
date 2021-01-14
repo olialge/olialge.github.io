@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yingqi Hua | Olivia Alge&#39;s Bio</title>
-    <link>/authors/yingqi-hua/</link>
-      <atom:link href="/authors/yingqi-hua/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olialge.github.io/authors/yingqi-hua/</link>
+      <atom:link href="https://olialge.github.io/authors/yingqi-hua/index.xml" rel="self" type="application/rss+xml" />
     <description>Yingqi Hua</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://olialge.github.io/img/icon-192.png</url>
       <title>Yingqi Hua</title>
-      <link>/authors/yingqi-hua/</link>
+      <link>https://olialge.github.io/authors/yingqi-hua/</link>
     </image>
     
     <item>
       <title>Classifying Osteosarcoma Using Meta-Analysis of Gene Expression</title>
-      <link>/publication/bibm2018/</link>
+      <link>https://olialge.github.io/publication/bibm2018/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/bibm2018/</guid>
+      <guid>https://olialge.github.io/publication/bibm2018/</guid>
       <description></description>
     </item>
     
